@@ -1,0 +1,12 @@
+{
+  "name": "n8n-deploy",
+  "version": "1.0.0",
+  "description": "Deploy n8n on Railway",
+  "main": "index.js",
+  "scripts": {
+    "start": "n8n start"
+  },
+  "dependencies": {
+    "n8n": "^1.80.0"
+  }
+}
